@@ -1,0 +1,8 @@
+.cproject
+*.swp
+.project
+Makefile
+*~
+main.o
+webapp
+
